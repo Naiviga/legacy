@@ -1,0 +1,56 @@
+<html>
+  
+      <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+
+      <title>Legacy</title>
+      </head>
+      <body>
+        <h1>Legacy</h1>
+        <h2>Interactive Cultural Map </h2>
+    <header>
+      <a href="£"class="logo">heritage</a>
+
+
+      <nav>
+        <a href="£"class="active">Home</a>
+
+        <a href="£">services</a>
+
+        <a href="£">maps</a>
+
+        <a href="£">blogs</a>
+
+        <a href="£">reviews</a>
+
+        <a href="£">blogs</a>
+
+        <a href="£">Guides</a>
+
+        <a href="£">resturants</a>
+</nav>
+    </header>
+    <section class="home">
+      <div class="home img">
+        <img src="https://i.pinimg.com/564x/4b/e9/66/4be9663f1fb15a3ddf0ea2228dbb3be5.jpg" alt="culture">
+        <img src="https://i.pinimg.com/564x/20/63/8e/20638e42f6a35710a1743a247675014b.jpg">
+        
+        <img src="https://i.pinimg.com/564x/fc/0b/a2/fc0ba24668febdcedadee167e099ed1d.jpg"width="600"height="850">
+      </div>
+      <div class="home-content">
+        <h1>Interactive Cultural Map Create a map-based app that highlights cultural landmarks museums festivals and historical sites with detailed information and visitor reviews  </h1>
+        <h3 class="home-content"><span></span></h3>
+        <p>list of best places to visit in your current locality try it now</p>
+        <div class="social icon">
+          <a href="£"><i class="fa-brands fa-linkedin"></i></a>
+          <a href="£"><i class="fa-brands fa-github"></i></a>
+           <a href="£"><i class="fa-brands fa-instagram"></i></a>
+
+        </div>
+      </div>
+    </section> 
+
+
+  </body>
+</html>
